@@ -11,7 +11,7 @@
 - [x] Add state management for dropdown visibility
 - [x] Ensure submenu appears directly below parent menu without gap (mt-0)
 - [x] Test responsive behavior
-- [x] Verify no layout conflicts
+- [x] Verify no layout conflict
 - [x] Test with npm run dev
 
 ## Target Result:
